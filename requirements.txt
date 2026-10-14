@@ -1,0 +1,13 @@
+# Core numerics
+numpy>=2.0,<3
+scipy>=1.13,<2
+sympy>=1.13,<2
+matplotlib>=3.9,<4
+
+# Quantum
+qutip>=5.0,<6
+scqubits>=4.0,<5
+
+# Notebooks
+jupyter
+ipykernel
