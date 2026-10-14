@@ -1,0 +1,13 @@
+# Core numerics, held back to versions QuTiP 4.7 supports
+numpy>=1.24,<2
+scipy>=1.10,<1.14
+sympy>=1.12,<2
+matplotlib>=3.7,<4
+
+# Quantum
+qutip>=4.7,<5
+scqubits>=3.1,<5
+
+# Notebooks
+jupyter
+ipykernel
