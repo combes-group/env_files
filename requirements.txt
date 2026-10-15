@@ -14,3 +14,8 @@ ipykernel
 
 # tests
 pytest
+
+
+# graphics
+colorspacious
+pillow
