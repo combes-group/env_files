@@ -11,3 +11,6 @@ scqubits>=3.1,<5
 # Notebooks
 jupyter
 ipykernel
+
+# tests
+pytest
