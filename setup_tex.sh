@@ -16,7 +16,7 @@ if ! command -v pdftoppm >/dev/null || ! command -v gs >/dev/null; then
 fi
 
 # --- TinyTeX ---
-curl -fsSL https://yihui.org/tinytex/install-bin-unx.sh | sh
+curl -fsSL https://raw.githubusercontent.com/rstudio/tinytex/main/tools/install-bin-unix.sh | sh
 TT=$(echo "$HOME"/.TinyTeX/bin/*)
 TLMGR="$TT/tlmgr"
 
